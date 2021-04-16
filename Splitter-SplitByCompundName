@@ -1,0 +1,20 @@
+15 DE ABRIL DEL 2021:
+Se agregar las artículos: "mac" y "mc" a la configuración interna, esto implica que las preposiones
+internas son: {"de", "del", "los", "las", "la", "lo", "san", "vda.", "y", "mac", "mc"}
+
+
+13 DE ABRIL DEL 2021:
+Contribución de Odel Leal, se agregar argumeto: Apellido primero, para soportar organización de 
+primero apellidos y  luego nombres, ejemplo "Riño de los Alpes Camilo Andrés"
+
+11 DE ABRIL DEL 2021:
+Se agregar soporte para dividir múltiples partes compuesta, ejemplo: "Julieth de los Reyes de la Castellana y de la Peña"
+Utilizando recursión con el aperador de alcance @.
+
+10 DE ABRIL DEL 2021:
+Se agregar soporte para para tres preposciones o artículos, ejemplo: "Lucía y de la Luz Carmona Vargas"
+
+8 DE ABRIL DEL 2021:
+Se hace pública la función por parte de Miguel Caballero y Fabian Torres, autores de la función
+Con soporte a sólo una parte compuesta y máximo dos preposciones o artículos, 
+ejemplo: "Alejandra de las Mercedez Palomino Rocha"
