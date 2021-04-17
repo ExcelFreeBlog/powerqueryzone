@@ -2,7 +2,6 @@
 Se agregar las artículos: "mac" y "mc" a la configuración interna, esto implica que las preposiones
 internas son: {"de", "del", "los", "las", "la", "lo", "san", "vda.", "y", "mac", "mc"}
 
-
 13 DE ABRIL DEL 2021:
 Contribución de Odel Leal, se agregar argumeto: Apellido primero, para soportar organización de 
 primero apellidos y  luego nombres, ejemplo "Riño de los Alpes Camilo Andrés"
