@@ -1,3 +1,9 @@
+08 DE JULIO DEL 2021:
+Se modifica la función Web.Contents para agregar su segundo argumento de registro para
+Especificar la propiedad RelativePath y de esta forma queda compatible la función con
+El servicio el la nube (Data Flows).
+
+
 15 DE ABRIL DEL 2021:
 Se hace pública la función por parte de Miguel Caballero y Fabian Torres, autores de la función
 Soporte de construcción para paises de Iberoamérica.
