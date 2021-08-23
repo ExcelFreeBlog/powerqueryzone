@@ -1,3 +1,8 @@
+23 DE AGOSTO DEL 2021:
+Se agrega españa en la documentación para que quede disponible en la lista
+Desplegable.
+
+
 08 DE JULIO DEL 2021:
 Se modifica la función Web.Contents para agregar su segundo argumento de registro para
 Especificar la propiedad RelativePath y de esta forma queda compatible la función con
